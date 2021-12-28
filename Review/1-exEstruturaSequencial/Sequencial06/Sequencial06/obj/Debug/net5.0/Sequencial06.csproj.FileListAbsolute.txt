@@ -1,0 +1,16 @@
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\Review\1-exEstruturaSequencial\Sequencial06\Sequencial06\bin\Debug\net5.0\Sequencial06.exe
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\Review\1-exEstruturaSequencial\Sequencial06\Sequencial06\bin\Debug\net5.0\Sequencial06.deps.json
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\Review\1-exEstruturaSequencial\Sequencial06\Sequencial06\bin\Debug\net5.0\Sequencial06.runtimeconfig.json
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\Review\1-exEstruturaSequencial\Sequencial06\Sequencial06\bin\Debug\net5.0\Sequencial06.runtimeconfig.dev.json
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\Review\1-exEstruturaSequencial\Sequencial06\Sequencial06\bin\Debug\net5.0\Sequencial06.dll
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\Review\1-exEstruturaSequencial\Sequencial06\Sequencial06\bin\Debug\net5.0\ref\Sequencial06.dll
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\Review\1-exEstruturaSequencial\Sequencial06\Sequencial06\bin\Debug\net5.0\Sequencial06.pdb
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\Review\1-exEstruturaSequencial\Sequencial06\Sequencial06\obj\Debug\net5.0\Sequencial06.csproj.AssemblyReference.cache
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\Review\1-exEstruturaSequencial\Sequencial06\Sequencial06\obj\Debug\net5.0\Sequencial06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\Review\1-exEstruturaSequencial\Sequencial06\Sequencial06\obj\Debug\net5.0\Sequencial06.AssemblyInfoInputs.cache
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\Review\1-exEstruturaSequencial\Sequencial06\Sequencial06\obj\Debug\net5.0\Sequencial06.AssemblyInfo.cs
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\Review\1-exEstruturaSequencial\Sequencial06\Sequencial06\obj\Debug\net5.0\Sequencial06.csproj.CoreCompileInputs.cache
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\Review\1-exEstruturaSequencial\Sequencial06\Sequencial06\obj\Debug\net5.0\Sequencial06.dll
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\Review\1-exEstruturaSequencial\Sequencial06\Sequencial06\obj\Debug\net5.0\ref\Sequencial06.dll
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\Review\1-exEstruturaSequencial\Sequencial06\Sequencial06\obj\Debug\net5.0\Sequencial06.pdb
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\Review\1-exEstruturaSequencial\Sequencial06\Sequencial06\obj\Debug\net5.0\Sequencial06.genruntimeconfig.cache
