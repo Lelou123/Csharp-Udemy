@@ -1,0 +1,16 @@
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\Review\4-exEstrturaFor\For05\For05\obj\Debug\net5.0\For05.csproj.AssemblyReference.cache
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\Review\4-exEstrturaFor\For05\For05\obj\Debug\net5.0\For05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\Review\4-exEstrturaFor\For05\For05\obj\Debug\net5.0\For05.AssemblyInfoInputs.cache
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\Review\4-exEstrturaFor\For05\For05\obj\Debug\net5.0\For05.AssemblyInfo.cs
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\Review\4-exEstrturaFor\For05\For05\obj\Debug\net5.0\For05.csproj.CoreCompileInputs.cache
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\Review\4-exEstrturaFor\For05\For05\bin\Debug\net5.0\For05.exe
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\Review\4-exEstrturaFor\For05\For05\bin\Debug\net5.0\For05.deps.json
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\Review\4-exEstrturaFor\For05\For05\bin\Debug\net5.0\For05.runtimeconfig.json
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\Review\4-exEstrturaFor\For05\For05\bin\Debug\net5.0\For05.runtimeconfig.dev.json
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\Review\4-exEstrturaFor\For05\For05\bin\Debug\net5.0\For05.dll
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\Review\4-exEstrturaFor\For05\For05\bin\Debug\net5.0\ref\For05.dll
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\Review\4-exEstrturaFor\For05\For05\bin\Debug\net5.0\For05.pdb
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\Review\4-exEstrturaFor\For05\For05\obj\Debug\net5.0\For05.dll
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\Review\4-exEstrturaFor\For05\For05\obj\Debug\net5.0\ref\For05.dll
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\Review\4-exEstrturaFor\For05\For05\obj\Debug\net5.0\For05.pdb
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\Review\4-exEstrturaFor\For05\For05\obj\Debug\net5.0\For05.genruntimeconfig.cache

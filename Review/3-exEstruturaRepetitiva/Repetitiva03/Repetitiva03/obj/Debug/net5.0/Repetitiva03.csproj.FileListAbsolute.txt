@@ -1,0 +1,16 @@
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\Review\1-exEstruturaSequencial\Repetitiva03\Repetitiva03\bin\Debug\net5.0\Repetitiva03.exe
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\Review\1-exEstruturaSequencial\Repetitiva03\Repetitiva03\bin\Debug\net5.0\Repetitiva03.deps.json
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\Review\1-exEstruturaSequencial\Repetitiva03\Repetitiva03\bin\Debug\net5.0\Repetitiva03.runtimeconfig.json
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\Review\1-exEstruturaSequencial\Repetitiva03\Repetitiva03\bin\Debug\net5.0\Repetitiva03.runtimeconfig.dev.json
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\Review\1-exEstruturaSequencial\Repetitiva03\Repetitiva03\bin\Debug\net5.0\Repetitiva03.dll
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\Review\1-exEstruturaSequencial\Repetitiva03\Repetitiva03\bin\Debug\net5.0\ref\Repetitiva03.dll
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\Review\1-exEstruturaSequencial\Repetitiva03\Repetitiva03\bin\Debug\net5.0\Repetitiva03.pdb
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\Review\1-exEstruturaSequencial\Repetitiva03\Repetitiva03\obj\Debug\net5.0\Repetitiva03.csproj.AssemblyReference.cache
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\Review\1-exEstruturaSequencial\Repetitiva03\Repetitiva03\obj\Debug\net5.0\Repetitiva03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\Review\1-exEstruturaSequencial\Repetitiva03\Repetitiva03\obj\Debug\net5.0\Repetitiva03.AssemblyInfoInputs.cache
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\Review\1-exEstruturaSequencial\Repetitiva03\Repetitiva03\obj\Debug\net5.0\Repetitiva03.AssemblyInfo.cs
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\Review\1-exEstruturaSequencial\Repetitiva03\Repetitiva03\obj\Debug\net5.0\Repetitiva03.csproj.CoreCompileInputs.cache
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\Review\1-exEstruturaSequencial\Repetitiva03\Repetitiva03\obj\Debug\net5.0\Repetitiva03.dll
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\Review\1-exEstruturaSequencial\Repetitiva03\Repetitiva03\obj\Debug\net5.0\ref\Repetitiva03.dll
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\Review\1-exEstruturaSequencial\Repetitiva03\Repetitiva03\obj\Debug\net5.0\Repetitiva03.pdb
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\Review\1-exEstruturaSequencial\Repetitiva03\Repetitiva03\obj\Debug\net5.0\Repetitiva03.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\Review\1-exEstruturaSequencial\Condicional01\Condicional01\bin\Debug\net5.0\Condicional01.exe
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\Review\1-exEstruturaSequencial\Condicional01\Condicional01\bin\Debug\net5.0\Condicional01.deps.json
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\Review\1-exEstruturaSequencial\Condicional01\Condicional01\bin\Debug\net5.0\Condicional01.runtimeconfig.json
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\Review\1-exEstruturaSequencial\Condicional01\Condicional01\bin\Debug\net5.0\Condicional01.runtimeconfig.dev.json
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\Review\1-exEstruturaSequencial\Condicional01\Condicional01\bin\Debug\net5.0\Condicional01.dll
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\Review\1-exEstruturaSequencial\Condicional01\Condicional01\bin\Debug\net5.0\ref\Condicional01.dll
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\Review\1-exEstruturaSequencial\Condicional01\Condicional01\bin\Debug\net5.0\Condicional01.pdb
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\Review\1-exEstruturaSequencial\Condicional01\Condicional01\obj\Debug\net5.0\Condicional01.csproj.AssemblyReference.cache
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\Review\1-exEstruturaSequencial\Condicional01\Condicional01\obj\Debug\net5.0\Condicional01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\Review\1-exEstruturaSequencial\Condicional01\Condicional01\obj\Debug\net5.0\Condicional01.AssemblyInfoInputs.cache
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\Review\1-exEstruturaSequencial\Condicional01\Condicional01\obj\Debug\net5.0\Condicional01.AssemblyInfo.cs
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\Review\1-exEstruturaSequencial\Condicional01\Condicional01\obj\Debug\net5.0\Condicional01.csproj.CoreCompileInputs.cache
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\Review\1-exEstruturaSequencial\Condicional01\Condicional01\obj\Debug\net5.0\Condicional01.dll
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\Review\1-exEstruturaSequencial\Condicional01\Condicional01\obj\Debug\net5.0\ref\Condicional01.dll
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\Review\1-exEstruturaSequencial\Condicional01\Condicional01\obj\Debug\net5.0\Condicional01.pdb
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\Review\1-exEstruturaSequencial\Condicional01\Condicional01\obj\Debug\net5.0\Condicional01.genruntimeconfig.cache
