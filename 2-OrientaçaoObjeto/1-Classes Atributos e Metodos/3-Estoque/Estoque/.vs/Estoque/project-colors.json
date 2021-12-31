@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8e490de1-3060-4e9c-af69-5edee66cfcf4": {
+      "ProjectGuid": "8e490de1-3060-4e9c-af69-5edee66cfcf4",
+      "DisplayName": "Estoque",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
