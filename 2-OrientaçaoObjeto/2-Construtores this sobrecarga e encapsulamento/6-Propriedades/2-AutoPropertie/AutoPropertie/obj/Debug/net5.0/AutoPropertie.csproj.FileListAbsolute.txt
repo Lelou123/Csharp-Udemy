@@ -1,0 +1,15 @@
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\2-Construtores this sobrecarga e encapsulamento\6-Propriedades\AutoPropertie\AutoPropertie\bin\Debug\net5.0\AutoPropertie.exe
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\2-Construtores this sobrecarga e encapsulamento\6-Propriedades\AutoPropertie\AutoPropertie\bin\Debug\net5.0\AutoPropertie.deps.json
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\2-Construtores this sobrecarga e encapsulamento\6-Propriedades\AutoPropertie\AutoPropertie\bin\Debug\net5.0\AutoPropertie.runtimeconfig.json
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\2-Construtores this sobrecarga e encapsulamento\6-Propriedades\AutoPropertie\AutoPropertie\bin\Debug\net5.0\AutoPropertie.runtimeconfig.dev.json
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\2-Construtores this sobrecarga e encapsulamento\6-Propriedades\AutoPropertie\AutoPropertie\bin\Debug\net5.0\AutoPropertie.dll
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\2-Construtores this sobrecarga e encapsulamento\6-Propriedades\AutoPropertie\AutoPropertie\bin\Debug\net5.0\ref\AutoPropertie.dll
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\2-Construtores this sobrecarga e encapsulamento\6-Propriedades\AutoPropertie\AutoPropertie\bin\Debug\net5.0\AutoPropertie.pdb
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\2-Construtores this sobrecarga e encapsulamento\6-Propriedades\AutoPropertie\AutoPropertie\obj\Debug\net5.0\AutoPropertie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\2-Construtores this sobrecarga e encapsulamento\6-Propriedades\AutoPropertie\AutoPropertie\obj\Debug\net5.0\AutoPropertie.AssemblyInfoInputs.cache
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\2-Construtores this sobrecarga e encapsulamento\6-Propriedades\AutoPropertie\AutoPropertie\obj\Debug\net5.0\AutoPropertie.AssemblyInfo.cs
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\2-Construtores this sobrecarga e encapsulamento\6-Propriedades\AutoPropertie\AutoPropertie\obj\Debug\net5.0\AutoPropertie.csproj.CoreCompileInputs.cache
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\2-Construtores this sobrecarga e encapsulamento\6-Propriedades\AutoPropertie\AutoPropertie\obj\Debug\net5.0\AutoPropertie.dll
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\2-Construtores this sobrecarga e encapsulamento\6-Propriedades\AutoPropertie\AutoPropertie\obj\Debug\net5.0\ref\AutoPropertie.dll
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\2-Construtores this sobrecarga e encapsulamento\6-Propriedades\AutoPropertie\AutoPropertie\obj\Debug\net5.0\AutoPropertie.pdb
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\2-Construtores this sobrecarga e encapsulamento\6-Propriedades\AutoPropertie\AutoPropertie\obj\Debug\net5.0\AutoPropertie.genruntimeconfig.cache

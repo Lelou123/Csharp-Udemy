@@ -1,0 +1,16 @@
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\3-Projetos\1-Déposito\Depósito\Depósito\bin\Debug\net5.0\Depósito.exe
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\3-Projetos\1-Déposito\Depósito\Depósito\bin\Debug\net5.0\Depósito.deps.json
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\3-Projetos\1-Déposito\Depósito\Depósito\bin\Debug\net5.0\Depósito.runtimeconfig.json
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\3-Projetos\1-Déposito\Depósito\Depósito\bin\Debug\net5.0\Depósito.runtimeconfig.dev.json
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\3-Projetos\1-Déposito\Depósito\Depósito\bin\Debug\net5.0\Depósito.dll
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\3-Projetos\1-Déposito\Depósito\Depósito\bin\Debug\net5.0\ref\Depósito.dll
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\3-Projetos\1-Déposito\Depósito\Depósito\bin\Debug\net5.0\Depósito.pdb
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\3-Projetos\1-Déposito\Depósito\Depósito\obj\Debug\net5.0\Depósito.csproj.AssemblyReference.cache
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\3-Projetos\1-Déposito\Depósito\Depósito\obj\Debug\net5.0\Depósito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\3-Projetos\1-Déposito\Depósito\Depósito\obj\Debug\net5.0\Depósito.AssemblyInfoInputs.cache
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\3-Projetos\1-Déposito\Depósito\Depósito\obj\Debug\net5.0\Depósito.AssemblyInfo.cs
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\3-Projetos\1-Déposito\Depósito\Depósito\obj\Debug\net5.0\Depósito.csproj.CoreCompileInputs.cache
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\3-Projetos\1-Déposito\Depósito\Depósito\obj\Debug\net5.0\Depósito.dll
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\3-Projetos\1-Déposito\Depósito\Depósito\obj\Debug\net5.0\ref\Depósito.dll
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\3-Projetos\1-Déposito\Depósito\Depósito\obj\Debug\net5.0\Depósito.pdb
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\3-Projetos\1-Déposito\Depósito\Depósito\obj\Debug\net5.0\Depósito.genruntimeconfig.cache

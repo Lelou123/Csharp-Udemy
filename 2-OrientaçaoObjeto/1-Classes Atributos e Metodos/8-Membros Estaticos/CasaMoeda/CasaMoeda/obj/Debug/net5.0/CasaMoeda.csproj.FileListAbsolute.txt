@@ -1,0 +1,16 @@
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\1-Classes Atributos e Metodos\8-Membros Estaticos\CasaMoeda\CasaMoeda\obj\Debug\net5.0\CasaMoeda.csproj.AssemblyReference.cache
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\1-Classes Atributos e Metodos\8-Membros Estaticos\CasaMoeda\CasaMoeda\obj\Debug\net5.0\CasaMoeda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\1-Classes Atributos e Metodos\8-Membros Estaticos\CasaMoeda\CasaMoeda\obj\Debug\net5.0\CasaMoeda.AssemblyInfoInputs.cache
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\1-Classes Atributos e Metodos\8-Membros Estaticos\CasaMoeda\CasaMoeda\obj\Debug\net5.0\CasaMoeda.AssemblyInfo.cs
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\1-Classes Atributos e Metodos\8-Membros Estaticos\CasaMoeda\CasaMoeda\obj\Debug\net5.0\CasaMoeda.csproj.CoreCompileInputs.cache
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\1-Classes Atributos e Metodos\8-Membros Estaticos\CasaMoeda\CasaMoeda\bin\Debug\net5.0\CasaMoeda.exe
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\1-Classes Atributos e Metodos\8-Membros Estaticos\CasaMoeda\CasaMoeda\bin\Debug\net5.0\CasaMoeda.deps.json
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\1-Classes Atributos e Metodos\8-Membros Estaticos\CasaMoeda\CasaMoeda\bin\Debug\net5.0\CasaMoeda.runtimeconfig.json
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\1-Classes Atributos e Metodos\8-Membros Estaticos\CasaMoeda\CasaMoeda\bin\Debug\net5.0\CasaMoeda.runtimeconfig.dev.json
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\1-Classes Atributos e Metodos\8-Membros Estaticos\CasaMoeda\CasaMoeda\bin\Debug\net5.0\CasaMoeda.dll
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\1-Classes Atributos e Metodos\8-Membros Estaticos\CasaMoeda\CasaMoeda\bin\Debug\net5.0\ref\CasaMoeda.dll
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\1-Classes Atributos e Metodos\8-Membros Estaticos\CasaMoeda\CasaMoeda\bin\Debug\net5.0\CasaMoeda.pdb
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\1-Classes Atributos e Metodos\8-Membros Estaticos\CasaMoeda\CasaMoeda\obj\Debug\net5.0\CasaMoeda.dll
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\1-Classes Atributos e Metodos\8-Membros Estaticos\CasaMoeda\CasaMoeda\obj\Debug\net5.0\ref\CasaMoeda.dll
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\1-Classes Atributos e Metodos\8-Membros Estaticos\CasaMoeda\CasaMoeda\obj\Debug\net5.0\CasaMoeda.pdb
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\1-Classes Atributos e Metodos\8-Membros Estaticos\CasaMoeda\CasaMoeda\obj\Debug\net5.0\CasaMoeda.genruntimeconfig.cache
