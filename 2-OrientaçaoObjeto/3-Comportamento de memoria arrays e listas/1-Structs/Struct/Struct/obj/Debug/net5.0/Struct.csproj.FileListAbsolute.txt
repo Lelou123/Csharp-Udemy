@@ -1,0 +1,16 @@
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\3-Projetos\1-Déposito\Struct\Struct\obj\Debug\net5.0\Struct.csproj.AssemblyReference.cache
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\3-Projetos\1-Déposito\Struct\Struct\obj\Debug\net5.0\Struct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\3-Projetos\1-Déposito\Struct\Struct\obj\Debug\net5.0\Struct.AssemblyInfoInputs.cache
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\3-Projetos\1-Déposito\Struct\Struct\obj\Debug\net5.0\Struct.AssemblyInfo.cs
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\3-Projetos\1-Déposito\Struct\Struct\obj\Debug\net5.0\Struct.csproj.CoreCompileInputs.cache
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\3-Projetos\1-Déposito\Struct\Struct\bin\Debug\net5.0\Struct.exe
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\3-Projetos\1-Déposito\Struct\Struct\bin\Debug\net5.0\Struct.deps.json
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\3-Projetos\1-Déposito\Struct\Struct\bin\Debug\net5.0\Struct.runtimeconfig.json
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\3-Projetos\1-Déposito\Struct\Struct\bin\Debug\net5.0\Struct.runtimeconfig.dev.json
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\3-Projetos\1-Déposito\Struct\Struct\bin\Debug\net5.0\Struct.dll
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\3-Projetos\1-Déposito\Struct\Struct\bin\Debug\net5.0\ref\Struct.dll
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\3-Projetos\1-Déposito\Struct\Struct\bin\Debug\net5.0\Struct.pdb
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\3-Projetos\1-Déposito\Struct\Struct\obj\Debug\net5.0\Struct.dll
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\3-Projetos\1-Déposito\Struct\Struct\obj\Debug\net5.0\ref\Struct.dll
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\3-Projetos\1-Déposito\Struct\Struct\obj\Debug\net5.0\Struct.pdb
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\3-Projetos\1-Déposito\Struct\Struct\obj\Debug\net5.0\Struct.genruntimeconfig.cache

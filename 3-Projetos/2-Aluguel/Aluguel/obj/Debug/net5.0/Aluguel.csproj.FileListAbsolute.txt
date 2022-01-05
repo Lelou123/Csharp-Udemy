@@ -1,0 +1,15 @@
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\3-Projetos\Aluguel\Aluguel\bin\Debug\net5.0\Aluguel.exe
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\3-Projetos\Aluguel\Aluguel\bin\Debug\net5.0\Aluguel.deps.json
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\3-Projetos\Aluguel\Aluguel\bin\Debug\net5.0\Aluguel.runtimeconfig.json
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\3-Projetos\Aluguel\Aluguel\bin\Debug\net5.0\Aluguel.runtimeconfig.dev.json
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\3-Projetos\Aluguel\Aluguel\bin\Debug\net5.0\Aluguel.dll
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\3-Projetos\Aluguel\Aluguel\bin\Debug\net5.0\ref\Aluguel.dll
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\3-Projetos\Aluguel\Aluguel\bin\Debug\net5.0\Aluguel.pdb
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\3-Projetos\Aluguel\Aluguel\obj\Debug\net5.0\Aluguel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\3-Projetos\Aluguel\Aluguel\obj\Debug\net5.0\Aluguel.AssemblyInfoInputs.cache
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\3-Projetos\Aluguel\Aluguel\obj\Debug\net5.0\Aluguel.AssemblyInfo.cs
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\3-Projetos\Aluguel\Aluguel\obj\Debug\net5.0\Aluguel.csproj.CoreCompileInputs.cache
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\3-Projetos\Aluguel\Aluguel\obj\Debug\net5.0\Aluguel.dll
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\3-Projetos\Aluguel\Aluguel\obj\Debug\net5.0\ref\Aluguel.dll
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\3-Projetos\Aluguel\Aluguel\obj\Debug\net5.0\Aluguel.pdb
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\3-Projetos\Aluguel\Aluguel\obj\Debug\net5.0\Aluguel.genruntimeconfig.cache
