@@ -1,0 +1,16 @@
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\5-Enum\1-Definição\Enum\Enum\bin\Debug\net5.0\Enum.exe
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\5-Enum\1-Definição\Enum\Enum\bin\Debug\net5.0\Enum.deps.json
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\5-Enum\1-Definição\Enum\Enum\bin\Debug\net5.0\Enum.runtimeconfig.json
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\5-Enum\1-Definição\Enum\Enum\bin\Debug\net5.0\Enum.runtimeconfig.dev.json
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\5-Enum\1-Definição\Enum\Enum\bin\Debug\net5.0\Enum.dll
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\5-Enum\1-Definição\Enum\Enum\bin\Debug\net5.0\ref\Enum.dll
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\5-Enum\1-Definição\Enum\Enum\bin\Debug\net5.0\Enum.pdb
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\5-Enum\1-Definição\Enum\Enum\obj\Debug\net5.0\Enum.csproj.AssemblyReference.cache
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\5-Enum\1-Definição\Enum\Enum\obj\Debug\net5.0\Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\5-Enum\1-Definição\Enum\Enum\obj\Debug\net5.0\Enum.AssemblyInfoInputs.cache
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\5-Enum\1-Definição\Enum\Enum\obj\Debug\net5.0\Enum.AssemblyInfo.cs
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\5-Enum\1-Definição\Enum\Enum\obj\Debug\net5.0\Enum.csproj.CoreCompileInputs.cache
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\5-Enum\1-Definição\Enum\Enum\obj\Debug\net5.0\Enum.dll
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\5-Enum\1-Definição\Enum\Enum\obj\Debug\net5.0\ref\Enum.dll
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\5-Enum\1-Definição\Enum\Enum\obj\Debug\net5.0\Enum.pdb
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\5-Enum\1-Definição\Enum\Enum\obj\Debug\net5.0\Enum.genruntimeconfig.cache
