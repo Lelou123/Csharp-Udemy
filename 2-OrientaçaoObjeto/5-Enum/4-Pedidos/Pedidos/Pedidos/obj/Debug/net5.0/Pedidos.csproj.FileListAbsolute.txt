@@ -1,0 +1,16 @@
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\5-Enum\4-Pedidos\Pedidos\Pedidos\bin\Debug\net5.0\Pedidos.exe
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\5-Enum\4-Pedidos\Pedidos\Pedidos\bin\Debug\net5.0\Pedidos.deps.json
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\5-Enum\4-Pedidos\Pedidos\Pedidos\bin\Debug\net5.0\Pedidos.runtimeconfig.json
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\5-Enum\4-Pedidos\Pedidos\Pedidos\bin\Debug\net5.0\Pedidos.runtimeconfig.dev.json
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\5-Enum\4-Pedidos\Pedidos\Pedidos\bin\Debug\net5.0\Pedidos.dll
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\5-Enum\4-Pedidos\Pedidos\Pedidos\bin\Debug\net5.0\ref\Pedidos.dll
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\5-Enum\4-Pedidos\Pedidos\Pedidos\bin\Debug\net5.0\Pedidos.pdb
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\5-Enum\4-Pedidos\Pedidos\Pedidos\obj\Debug\net5.0\Pedidos.csproj.AssemblyReference.cache
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\5-Enum\4-Pedidos\Pedidos\Pedidos\obj\Debug\net5.0\Pedidos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\5-Enum\4-Pedidos\Pedidos\Pedidos\obj\Debug\net5.0\Pedidos.AssemblyInfoInputs.cache
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\5-Enum\4-Pedidos\Pedidos\Pedidos\obj\Debug\net5.0\Pedidos.AssemblyInfo.cs
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\5-Enum\4-Pedidos\Pedidos\Pedidos\obj\Debug\net5.0\Pedidos.csproj.CoreCompileInputs.cache
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\5-Enum\4-Pedidos\Pedidos\Pedidos\obj\Debug\net5.0\Pedidos.dll
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\5-Enum\4-Pedidos\Pedidos\Pedidos\obj\Debug\net5.0\ref\Pedidos.dll
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\5-Enum\4-Pedidos\Pedidos\Pedidos\obj\Debug\net5.0\Pedidos.pdb
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\5-Enum\4-Pedidos\Pedidos\Pedidos\obj\Debug\net5.0\Pedidos.genruntimeconfig.cache

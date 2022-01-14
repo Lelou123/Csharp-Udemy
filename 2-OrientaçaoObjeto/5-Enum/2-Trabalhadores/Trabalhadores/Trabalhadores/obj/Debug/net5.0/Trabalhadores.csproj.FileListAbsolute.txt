@@ -1,0 +1,16 @@
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\5-Enum\2-Trabalhadores\Trabalhadores\Trabalhadores\bin\Debug\net5.0\Trabalhadores.exe
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\5-Enum\2-Trabalhadores\Trabalhadores\Trabalhadores\bin\Debug\net5.0\Trabalhadores.deps.json
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\5-Enum\2-Trabalhadores\Trabalhadores\Trabalhadores\bin\Debug\net5.0\Trabalhadores.runtimeconfig.json
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\5-Enum\2-Trabalhadores\Trabalhadores\Trabalhadores\bin\Debug\net5.0\Trabalhadores.runtimeconfig.dev.json
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\5-Enum\2-Trabalhadores\Trabalhadores\Trabalhadores\bin\Debug\net5.0\Trabalhadores.dll
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\5-Enum\2-Trabalhadores\Trabalhadores\Trabalhadores\bin\Debug\net5.0\ref\Trabalhadores.dll
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\5-Enum\2-Trabalhadores\Trabalhadores\Trabalhadores\bin\Debug\net5.0\Trabalhadores.pdb
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\5-Enum\2-Trabalhadores\Trabalhadores\Trabalhadores\obj\Debug\net5.0\Trabalhadores.csproj.AssemblyReference.cache
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\5-Enum\2-Trabalhadores\Trabalhadores\Trabalhadores\obj\Debug\net5.0\Trabalhadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\5-Enum\2-Trabalhadores\Trabalhadores\Trabalhadores\obj\Debug\net5.0\Trabalhadores.AssemblyInfoInputs.cache
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\5-Enum\2-Trabalhadores\Trabalhadores\Trabalhadores\obj\Debug\net5.0\Trabalhadores.AssemblyInfo.cs
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\5-Enum\2-Trabalhadores\Trabalhadores\Trabalhadores\obj\Debug\net5.0\Trabalhadores.csproj.CoreCompileInputs.cache
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\5-Enum\2-Trabalhadores\Trabalhadores\Trabalhadores\obj\Debug\net5.0\Trabalhadores.dll
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\5-Enum\2-Trabalhadores\Trabalhadores\Trabalhadores\obj\Debug\net5.0\ref\Trabalhadores.dll
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\5-Enum\2-Trabalhadores\Trabalhadores\Trabalhadores\obj\Debug\net5.0\Trabalhadores.pdb
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\5-Enum\2-Trabalhadores\Trabalhadores\Trabalhadores\obj\Debug\net5.0\Trabalhadores.genruntimeconfig.cache
