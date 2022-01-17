@@ -1,0 +1,16 @@
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\6-Herança e Polimorfismo\7TryCatch\3ExFixacao\FixacaoEx\FixacaoEx\bin\Debug\net5.0\FixacaoEx.exe
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\6-Herança e Polimorfismo\7TryCatch\3ExFixacao\FixacaoEx\FixacaoEx\bin\Debug\net5.0\FixacaoEx.deps.json
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\6-Herança e Polimorfismo\7TryCatch\3ExFixacao\FixacaoEx\FixacaoEx\bin\Debug\net5.0\FixacaoEx.runtimeconfig.json
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\6-Herança e Polimorfismo\7TryCatch\3ExFixacao\FixacaoEx\FixacaoEx\bin\Debug\net5.0\FixacaoEx.runtimeconfig.dev.json
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\6-Herança e Polimorfismo\7TryCatch\3ExFixacao\FixacaoEx\FixacaoEx\bin\Debug\net5.0\FixacaoEx.dll
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\6-Herança e Polimorfismo\7TryCatch\3ExFixacao\FixacaoEx\FixacaoEx\bin\Debug\net5.0\ref\FixacaoEx.dll
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\6-Herança e Polimorfismo\7TryCatch\3ExFixacao\FixacaoEx\FixacaoEx\bin\Debug\net5.0\FixacaoEx.pdb
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\6-Herança e Polimorfismo\7TryCatch\3ExFixacao\FixacaoEx\FixacaoEx\obj\Debug\net5.0\FixacaoEx.csproj.AssemblyReference.cache
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\6-Herança e Polimorfismo\7TryCatch\3ExFixacao\FixacaoEx\FixacaoEx\obj\Debug\net5.0\FixacaoEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\6-Herança e Polimorfismo\7TryCatch\3ExFixacao\FixacaoEx\FixacaoEx\obj\Debug\net5.0\FixacaoEx.AssemblyInfoInputs.cache
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\6-Herança e Polimorfismo\7TryCatch\3ExFixacao\FixacaoEx\FixacaoEx\obj\Debug\net5.0\FixacaoEx.AssemblyInfo.cs
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\6-Herança e Polimorfismo\7TryCatch\3ExFixacao\FixacaoEx\FixacaoEx\obj\Debug\net5.0\FixacaoEx.csproj.CoreCompileInputs.cache
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\6-Herança e Polimorfismo\7TryCatch\3ExFixacao\FixacaoEx\FixacaoEx\obj\Debug\net5.0\FixacaoEx.dll
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\6-Herança e Polimorfismo\7TryCatch\3ExFixacao\FixacaoEx\FixacaoEx\obj\Debug\net5.0\ref\FixacaoEx.dll
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\6-Herança e Polimorfismo\7TryCatch\3ExFixacao\FixacaoEx\FixacaoEx\obj\Debug\net5.0\FixacaoEx.pdb
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\6-Herança e Polimorfismo\7TryCatch\3ExFixacao\FixacaoEx\FixacaoEx\obj\Debug\net5.0\FixacaoEx.genruntimeconfig.cache
