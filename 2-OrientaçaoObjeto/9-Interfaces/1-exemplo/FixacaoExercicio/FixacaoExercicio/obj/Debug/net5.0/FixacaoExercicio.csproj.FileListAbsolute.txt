@@ -1,0 +1,16 @@
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\9-Interfaces\1-exemplo\FixacaoExercicio\FixacaoExercicio\obj\Debug\net5.0\FixacaoExercicio.csproj.AssemblyReference.cache
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\9-Interfaces\1-exemplo\FixacaoExercicio\FixacaoExercicio\obj\Debug\net5.0\FixacaoExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\9-Interfaces\1-exemplo\FixacaoExercicio\FixacaoExercicio\obj\Debug\net5.0\FixacaoExercicio.AssemblyInfoInputs.cache
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\9-Interfaces\1-exemplo\FixacaoExercicio\FixacaoExercicio\obj\Debug\net5.0\FixacaoExercicio.AssemblyInfo.cs
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\9-Interfaces\1-exemplo\FixacaoExercicio\FixacaoExercicio\obj\Debug\net5.0\FixacaoExercicio.csproj.CoreCompileInputs.cache
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\9-Interfaces\1-exemplo\FixacaoExercicio\FixacaoExercicio\bin\Debug\net5.0\FixacaoExercicio.exe
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\9-Interfaces\1-exemplo\FixacaoExercicio\FixacaoExercicio\bin\Debug\net5.0\FixacaoExercicio.deps.json
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\9-Interfaces\1-exemplo\FixacaoExercicio\FixacaoExercicio\bin\Debug\net5.0\FixacaoExercicio.runtimeconfig.json
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\9-Interfaces\1-exemplo\FixacaoExercicio\FixacaoExercicio\bin\Debug\net5.0\FixacaoExercicio.runtimeconfig.dev.json
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\9-Interfaces\1-exemplo\FixacaoExercicio\FixacaoExercicio\bin\Debug\net5.0\FixacaoExercicio.dll
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\9-Interfaces\1-exemplo\FixacaoExercicio\FixacaoExercicio\bin\Debug\net5.0\ref\FixacaoExercicio.dll
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\9-Interfaces\1-exemplo\FixacaoExercicio\FixacaoExercicio\bin\Debug\net5.0\FixacaoExercicio.pdb
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\9-Interfaces\1-exemplo\FixacaoExercicio\FixacaoExercicio\obj\Debug\net5.0\FixacaoExercicio.dll
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\9-Interfaces\1-exemplo\FixacaoExercicio\FixacaoExercicio\obj\Debug\net5.0\ref\FixacaoExercicio.dll
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\9-Interfaces\1-exemplo\FixacaoExercicio\FixacaoExercicio\obj\Debug\net5.0\FixacaoExercicio.pdb
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\9-Interfaces\1-exemplo\FixacaoExercicio\FixacaoExercicio\obj\Debug\net5.0\FixacaoExercicio.genruntimeconfig.cache
