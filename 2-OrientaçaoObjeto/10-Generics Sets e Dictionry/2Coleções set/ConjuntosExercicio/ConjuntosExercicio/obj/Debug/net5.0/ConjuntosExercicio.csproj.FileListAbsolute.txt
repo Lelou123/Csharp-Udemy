@@ -1,0 +1,16 @@
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\10-Generics Sets e Dictionry\2Coleções set\ConjuntosExercicio\ConjuntosExercicio\bin\Debug\net5.0\ConjuntosExercicio.exe
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\10-Generics Sets e Dictionry\2Coleções set\ConjuntosExercicio\ConjuntosExercicio\bin\Debug\net5.0\ConjuntosExercicio.deps.json
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\10-Generics Sets e Dictionry\2Coleções set\ConjuntosExercicio\ConjuntosExercicio\bin\Debug\net5.0\ConjuntosExercicio.runtimeconfig.json
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\10-Generics Sets e Dictionry\2Coleções set\ConjuntosExercicio\ConjuntosExercicio\bin\Debug\net5.0\ConjuntosExercicio.runtimeconfig.dev.json
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\10-Generics Sets e Dictionry\2Coleções set\ConjuntosExercicio\ConjuntosExercicio\bin\Debug\net5.0\ConjuntosExercicio.dll
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\10-Generics Sets e Dictionry\2Coleções set\ConjuntosExercicio\ConjuntosExercicio\bin\Debug\net5.0\ref\ConjuntosExercicio.dll
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\10-Generics Sets e Dictionry\2Coleções set\ConjuntosExercicio\ConjuntosExercicio\bin\Debug\net5.0\ConjuntosExercicio.pdb
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\10-Generics Sets e Dictionry\2Coleções set\ConjuntosExercicio\ConjuntosExercicio\obj\Debug\net5.0\ConjuntosExercicio.csproj.AssemblyReference.cache
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\10-Generics Sets e Dictionry\2Coleções set\ConjuntosExercicio\ConjuntosExercicio\obj\Debug\net5.0\ConjuntosExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\10-Generics Sets e Dictionry\2Coleções set\ConjuntosExercicio\ConjuntosExercicio\obj\Debug\net5.0\ConjuntosExercicio.AssemblyInfoInputs.cache
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\10-Generics Sets e Dictionry\2Coleções set\ConjuntosExercicio\ConjuntosExercicio\obj\Debug\net5.0\ConjuntosExercicio.AssemblyInfo.cs
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\10-Generics Sets e Dictionry\2Coleções set\ConjuntosExercicio\ConjuntosExercicio\obj\Debug\net5.0\ConjuntosExercicio.csproj.CoreCompileInputs.cache
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\10-Generics Sets e Dictionry\2Coleções set\ConjuntosExercicio\ConjuntosExercicio\obj\Debug\net5.0\ConjuntosExercicio.dll
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\10-Generics Sets e Dictionry\2Coleções set\ConjuntosExercicio\ConjuntosExercicio\obj\Debug\net5.0\ref\ConjuntosExercicio.dll
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\10-Generics Sets e Dictionry\2Coleções set\ConjuntosExercicio\ConjuntosExercicio\obj\Debug\net5.0\ConjuntosExercicio.pdb
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\10-Generics Sets e Dictionry\2Coleções set\ConjuntosExercicio\ConjuntosExercicio\obj\Debug\net5.0\ConjuntosExercicio.genruntimeconfig.cache

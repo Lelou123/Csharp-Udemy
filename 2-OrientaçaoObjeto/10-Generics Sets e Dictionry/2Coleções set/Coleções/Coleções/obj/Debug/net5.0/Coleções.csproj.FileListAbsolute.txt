@@ -1,0 +1,16 @@
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\10-Generics Sets e Dictionry\2Coleções set\Coleções\Coleções\bin\Debug\net5.0\Coleções.exe
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\10-Generics Sets e Dictionry\2Coleções set\Coleções\Coleções\bin\Debug\net5.0\Coleções.deps.json
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\10-Generics Sets e Dictionry\2Coleções set\Coleções\Coleções\bin\Debug\net5.0\Coleções.runtimeconfig.json
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\10-Generics Sets e Dictionry\2Coleções set\Coleções\Coleções\bin\Debug\net5.0\Coleções.runtimeconfig.dev.json
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\10-Generics Sets e Dictionry\2Coleções set\Coleções\Coleções\bin\Debug\net5.0\Coleções.dll
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\10-Generics Sets e Dictionry\2Coleções set\Coleções\Coleções\bin\Debug\net5.0\ref\Coleções.dll
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\10-Generics Sets e Dictionry\2Coleções set\Coleções\Coleções\bin\Debug\net5.0\Coleções.pdb
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\10-Generics Sets e Dictionry\2Coleções set\Coleções\Coleções\obj\Debug\net5.0\Coleções.csproj.AssemblyReference.cache
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\10-Generics Sets e Dictionry\2Coleções set\Coleções\Coleções\obj\Debug\net5.0\Coleções.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\10-Generics Sets e Dictionry\2Coleções set\Coleções\Coleções\obj\Debug\net5.0\Coleções.AssemblyInfoInputs.cache
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\10-Generics Sets e Dictionry\2Coleções set\Coleções\Coleções\obj\Debug\net5.0\Coleções.AssemblyInfo.cs
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\10-Generics Sets e Dictionry\2Coleções set\Coleções\Coleções\obj\Debug\net5.0\Coleções.csproj.CoreCompileInputs.cache
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\10-Generics Sets e Dictionry\2Coleções set\Coleções\Coleções\obj\Debug\net5.0\Coleções.dll
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\10-Generics Sets e Dictionry\2Coleções set\Coleções\Coleções\obj\Debug\net5.0\ref\Coleções.dll
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\10-Generics Sets e Dictionry\2Coleções set\Coleções\Coleções\obj\Debug\net5.0\Coleções.pdb
+C:\Users\Muril\Documents\Udemy\Csharp-Udemy\2-OrientaçaoObjeto\10-Generics Sets e Dictionry\2Coleções set\Coleções\Coleções\obj\Debug\net5.0\Coleções.genruntimeconfig.cache
