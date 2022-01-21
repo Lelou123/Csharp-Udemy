@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a31bea48-b800-44b1-96b1-d2a954db2ef1": {
+      "ProjectGuid": "a31bea48-b800-44b1-96b1-d2a954db2ef1",
+      "DisplayName": "MultcastDelegates",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
